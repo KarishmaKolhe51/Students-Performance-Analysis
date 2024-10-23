@@ -1,7 +1,5 @@
 # Students Performance in Exams
 
-Dataset: [Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data)
-
 ### Detailed Analysis: Students Performance in Exams
 
 The analysis of the students' performance dataset provided valuable insights into various factors that influence exam outcomes, such as gender, parental education level, lunch type, test preparation, and subject-wise performance. Here’s a comprehensive breakdown of the key findings:
